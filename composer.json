@@ -1,0 +1,17 @@
+{
+    "name": "jowy/php-async",
+    "type": "project",
+    "require": {
+        "amphp/amp": "^2.0",
+        "amphp/file": "^0.3.0",
+        "amphp/dns": "^0.9.12"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prasetyo Wicaksono",
+            "email": "pras@openmailbox.org"
+        }
+    ],
+    "minimum-stability": "stable"
+}
